@@ -1,2 +1,2 @@
 # c-structure
-C Structure processor
+C Structure org.ldl5007.processor

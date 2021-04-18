@@ -4,3 +4,5 @@
  * This is a general purpose Gradle build.
  * Learn more about Gradle by exploring our samples at https://docs.gradle.org/6.7.1/samples
  */
+
+group = "org.ldl5007"

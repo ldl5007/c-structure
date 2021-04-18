@@ -9,4 +9,4 @@
 
 rootProject.name = "c-structure"
 
-include (":app")
+include (":app", ":processor")
